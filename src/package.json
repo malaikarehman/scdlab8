@@ -1,0 +1,13 @@
+{
+  "name": "lab8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node events.js",
+    "test": "mocha testScript.js --timeout 5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
